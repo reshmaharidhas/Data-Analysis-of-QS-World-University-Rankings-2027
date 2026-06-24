@@ -34,7 +34,12 @@ Notebook url: https://www.kaggle.com/code/reshmaharidhas/qs-world-university-ran
 - Numpy
 - Plotly
 
-### Visualizations
+### Visualizations💻
+![](plots/distribution_of_various_scores_of_universities_in_qs_world_rankings_2027.png)
+![](plots/top_10_cities_worldwide_with_highest_number_of_universities_in_qs_2027.png)
+![](plots/correlation_heatmap.png)
+![](plots/top_5_universities_in_nz_in_qs_2027.png)
+![](plots/difference_in_rank_for_top_indian_universities_in_qs_2027_compared_to_qs_2026.png)
 
 ### License💻
 MIT
